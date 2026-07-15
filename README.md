@@ -18,7 +18,7 @@ This project is an interactive Coffee Shop Sales Dashboard created in Microsoft 
 - Slicers
 
 ## Dataset
-Coffee Shop Sales Dataset
+Coffee Shop Sales 
 
 ## Author
 Saurav Singh
